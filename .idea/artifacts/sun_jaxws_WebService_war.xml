@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sun-jaxws-WebService:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="sun-jaxws-WebService.war">
+      <element id="artifact" artifact-name="sun-jaxws-WebService:war exploded" />
+    </root>
+  </artifact>
+</component>
